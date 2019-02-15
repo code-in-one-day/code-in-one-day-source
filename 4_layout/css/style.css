@@ -1,0 +1,15 @@
+h1 {
+    color: navy;
+}
+
+.inline-paragraph {
+    border: 1px solid forestgreen;
+}
+
+.block-span {
+    border: 1px solid maroon;
+}
+
+.container {
+    border: 1px solid darkmagenta;
+}

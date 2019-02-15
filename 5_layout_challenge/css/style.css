@@ -1,0 +1,28 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: MediumVioletRed;
+    height: 200px;
+}
+
+section {
+    background-color: forestgreen;
+    display: inline-block;
+    height: 400px;
+    width: 65%;
+}
+
+aside {
+    background-color: RoyalBlue;
+    display: inline-block;
+    height: 400px;
+    width: 34%;
+}
+
+footer {
+    background-color: DarkOrange;
+    height: 200px;
+}
